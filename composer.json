@@ -1,0 +1,17 @@
+{
+    "name": "denisov/parenthesestester",
+    "description": "checking string contain closed brackets",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Denisov Pavel",
+            "email": "pavel.denisov.92@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
